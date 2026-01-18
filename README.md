@@ -84,12 +84,12 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | 🏬 App Store | TBD | ⏳ |
 | 📶 Bluetooth Monitor | **1.0** | ⏳ |
 | 🎥 Cam Journal | **1.0** | ⏳ |
-| ⌨️ Code Editor | TBD | ⏳ |
+| ⌨️ Code Editor | **Alpha** | ⏳ |
 | 📈 DataAnalyzer | **Alpha** | ⏳ |
 | 🧪 DataLab | **Alpha** | ⏳ |
 | 🌐 ETH TERMINAL | TBD | ⏳ |
 | 📡 LoCo-Unit | TBD | ⏳ |
-| 🔤 OCR Video | TBD | ⏳ |
+| 🔤 OCR Video | 1.0 | ⏳ |
 | 🔌 SERIAL TERMINAL | **1.0** | ⏳ |
 | 📋 Table | **Alpha** | ⏳ |
 | 📶 WiFi Monitor | TBD  | ⏳ |
