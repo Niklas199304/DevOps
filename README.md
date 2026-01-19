@@ -58,7 +58,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 **TBD** means the app version metadata has not been published yet. 🔎
 
-| App | Version | Notes |
+| App | Latest Version | Notes |
 | --- | --- | --- |
 | 🏬 App Store | TBD | Marketplace and app discovery |
 | 📶 Bluetooth Monitor | **1.0** | Device discovery, telemetry readout, basic monitoring |
@@ -79,19 +79,19 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 **Legend:** ✅ compatible · ❌ not compatible · 📝 changelog entry · ⏳ pending
 
-| App | DevOps 1.0 Alpha 1 | DevOps Alpha 2 |
+| App | DevOps 1.0 Alpha 1 | DevOps 1.0 Alpha 2 |
 | --- | --- | --- |
-| 🏬 App Store |✅ **1.0** | ⏳ |
-| 📶 Bluetooth Monitor |✅ **1.0** | ⏳ |
-| 🎥 Cam Journal |✅ **1.0** | ⏳ |
-| ⌨️ Code Editor |✅ **Alpha** | ⏳ |
-| 📈 DataAnalyzer |✅ **Alpha** | ⏳ |
-| 🧪 DataLab |✅ **Alpha** | ⏳ |
+| 🏬 App Store | **1.0** | ⏳ |
+| 📶 Bluetooth Monitor | **1.0** | ⏳ |
+| 🎥 Cam Journal | **1.0** | ⏳ |
+| ⌨️ Code Editor | **Alpha** | ⏳ |
+| 📈 DataAnalyzer | **Alpha** | ⏳ |
+| 🧪 DataLab | **Alpha** | ⏳ |
 | 🌐 ETH TERMINAL | TBD | ⏳ |
 | 📡 LoCo-Unit | TBD | ⏳ |
-| 🔤 OCR Video |✅ 1.0 | ⏳ |
-| 🔌 SERIAL TERMINAL |✅ **1.0** | ⏳ |
-| 📋 Table |✅ **Alpha** | ⏳ |
+| 🔤 OCR Video | 1.0 | ⏳ |
+| 🔌 SERIAL TERMINAL | **1.0** | ⏳ |
+| 📋 Table | **Alpha** | ⏳ |
 | 📶 WiFi Monitor | TBD  | ⏳ |
 
 ---
