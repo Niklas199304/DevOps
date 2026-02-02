@@ -118,4 +118,4 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 ## 📄 License
 
-TBD (choose a docs-friendly license if you want external contributions).
+DevOps uses a Named-User licensing model. A license is assigned to a single user account and may be used on multiple devices, but only one active session per user is permitted at any time. DevOps itself is provided free of charge. Additional apps are available through the DevOps App Store and may be offered for free, as paid products, or with time-limited trial periods. If a second session is started, the existing session may be signed out automatically.
