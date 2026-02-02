@@ -79,31 +79,12 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 ---
 
-## 🧩 Compatibility Matrix (DevOps Versions)
+##🗺️ Roadmap Highlights
 
-Legend: ✅ compatible · ❌ not compatible · 📝 changelog entry · ⏳ pending
-
-App 	DevOps 1.0 Alpha 1 	DevOps Alpha 2
-🏬 App Store 	TBD 	⏳
-📶 Bluetooth Monitor 	✅ 1.0 	⏳
-🎥 Cam Journal 	✅ 1.0 	⏳
-⌨️ Code Editor 	✅ Alpha 	⏳
-📈 DataAnalyzer 	✅ Alpha 	⏳
-🧪 DataLab 	✅ Alpha 	⏳
-🌐 ETH TERMINAL 	TBD 	⏳
-📡 LoCo-Unit 	TBD 	⏳
-🔤 OCR Video 	✅ 1.0 	⏳
-🔌 SERIAL TERMINAL 	✅ 1.0 	⏳
-📋 Table 	✅ Alpha 	⏳
-📶 WiFi Monitor 	TBD 	⏳
-
---
-
-🗺️ Roadmap Highlights
-Status 	Item
-🧷 Planned 	Publish per-app changelogs and support windows.
-✅ Planned 	Add verified compatibility results per DevOps release.
-🤝 Planned 	Provide partner guidance for integrations and upgrades.
+|Status |	Item
+|🧷 |Planned 	|Publish per-app changelogs and support windows.
+|✅ |Planned 	|Add verified compatibility results per DevOps release.
+|🤝 |Planned 	|Provide partner guidance for integrations and upgrades.
 
 --
 
