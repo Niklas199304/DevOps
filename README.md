@@ -63,15 +63,6 @@ Communication between apps flows through a central **DevOps Data Node** (logical
 
 **Important:** IPC frames are **ephemeral** (not persisted). Persistence/logging is the job of dedicated apps (e.g., Logger/Recorder), not the IPC transport itself.
 
----
-
-## Where is the exact specification?
-
-This README is an introduction to the concept, architecture, and orientation. The **exact, bit‑accurate definition** (header layout, payload layouts, CRC rules, and data type legend) is defined in the protocol document:
-
-* **App IPC Protocol (SoT):** `docs/App_IPC_Protocol_DevOps_1.0_Alpha1.md`
-
-> Adjust the path/filename to match your repository layout. The key requirement is: this document is the SoT.
 
 ---
 
@@ -91,7 +82,7 @@ This README is an introduction to the concept, architecture, and orientation. Th
 * **Quick Start for third‑party apps**
 * Example `stream.meta.json`
 * Minimal “Hello Bus” publish/subscribe flow
-
+* Minimal **MyDevOpsApp** Example
 
 
 ---
