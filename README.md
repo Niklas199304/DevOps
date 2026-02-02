@@ -62,7 +62,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 **TBD** means the app version metadata has not been published a functional version yet but its in progress. 🔎
 
-| App | 1.0 Alpha | Notes |
+| App | DevOps 1.0 Alpha 1 | Notes |
 | --- | --- | --- |
 | 🏬 App Store | TBD | Marketplace and app discovery |
 | 📶 Bluetooth Monitor | **1.0** | Device discovery, telemetry readout, basic monitoring |
