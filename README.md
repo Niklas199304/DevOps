@@ -79,12 +79,13 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 ---
 
-##🗺️ Roadmap Highlights
+## 🗺️ Roadmap Highlights
 
-|Status |	Item
-|🧷 |Planned 	|Publish per-app changelogs and support windows.
-|✅ |Planned 	|Add verified compatibility results per DevOps release.
-|🤝 |Planned 	|Provide partner guidance for integrations and upgrades.
+|Status |	Item |
+| --- | --- |
+|🧷 |Planned 	|Publish per-app changelogs and support windows.|
+|✅ |Planned 	|Add verified compatibility results per DevOps release.|
+|🤝 |Planned 	|Provide partner guidance for integrations and upgrades.|
 
 --
 
