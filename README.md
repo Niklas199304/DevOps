@@ -53,7 +53,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | Operating System | Supported Version |
 | --- | --- |
 | **Windows 10/11** | **1.0 Alpha 1** |
-| **Linux Ubuntu** | **1.0 Alpha 1** Ready but not tested yet  |
+| **Linux Ubuntu** | **1.0 Alpha 1** (Ready but not tested yet)  |
 
 ---
 
