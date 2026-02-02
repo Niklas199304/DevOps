@@ -1,4 +1,7 @@
 ## Preview @ www.grizzlar.de/devops  Password: Preview1234
+## The Beta Version 1.0 will be released in March 2026
+## The First Alpha Versions are currently being tested by Test-Users. If you would like to become a Test User, please send me an email at n.bloemen@grizzlar.de.
+
 # DevOps Lounge ✨🧭
 
 **DevOps Lounge** is the public hub for the DevOps ecosystem: release notes, changelogs, supported versions, app compatibility, and roadmap highlights.  
@@ -78,8 +81,6 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 ## 🧩 Compatibility Matrix (DevOps Versions)
 
-**Legend:** ✅ compatible · ❌ not compatible · 📝 changelog entry · ⏳ pending
-
 | App | DevOps 1.0 Alpha 1 | DevOps 1.0 Alpha 2 |
 | --- | --- | --- |
 | 🏬 App Store | **1.0** | ⏳ |
@@ -94,16 +95,6 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | 🔌 SERIAL TERMINAL | **1.0** | ⏳ |
 | 📋 Table | **Alpha** | ⏳ |
 | 📶 WiFi Monitor | TBD  | ⏳ |
-
----
-
-## 🗺️ Roadmap Highlights
-
-| Status | Item |
-| --- | --- |
-| 🧷 Planned | Publish per-app changelogs and support windows. |
-| ✅ Planned | Add verified compatibility results per DevOps release. |
-| 🤝 Planned | Provide partner guidance for integrations and upgrades. |
 
 ---
 
