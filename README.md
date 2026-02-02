@@ -33,7 +33,7 @@
 
 | Version | Summary |
 | --- | --- |
-| **1.0 Alpha 1** | Initial public hub launch. 🚀 |
+| **1.0 Alpha 1** | Test-User Version only |
 
 ---
 
