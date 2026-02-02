@@ -49,12 +49,12 @@ Track changes to documentation, compatibility status, and roadmap entries.
 
 ---
 
-## ✅ Supported Versions
+## ✅ Supported Operating System
 
-| Component | Supported Version |
+| Operating System | Supported Version |
 | --- | --- |
-| **DevOps Desktop** | **1.0 Alpha 1** 🖥️ |
-| **Apps** | See **App Versions Overview** 🧩 |
+| **Windows 10/11** | **1.0 Alpha 1** |
+| **Linux Ubuntu** | **1.0 Alpha 1**  |
 
 ---
 
