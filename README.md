@@ -13,7 +13,7 @@
 
 DevOps is built as a **multi-app platform**: each app runs as an **independent instance** inside a shared **project**, and exchanges data via a **central, local IPC bus**. This enables both internal and third‑party apps to **publish**, **subscribe**, and **process** data in real time (e.g., sensor streams, analysis results, status signals, events).
 
-➡️ **Read the full specification here:**  [DevOps Open App Communication](https://github.com/GR1ZZL4R/DevOps/blob/main/docs/App_IPC_Protocol.md)
+➡️ **Read the full specification here:**  [DevOps IPC Protocol](https://github.com/GR1ZZL4R/DevOps/blob/main/docs/App_IPC_Protocol.md)
 
 
 **Core idea:**
