@@ -104,7 +104,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 |🤝 | Collect feedback and take it into account for the Betea version. |
 |🤝 | Launch Beta Version at March. |
 
---
+---
 
 ## 🧱 Repository rules
 
