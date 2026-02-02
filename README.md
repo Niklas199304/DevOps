@@ -67,14 +67,14 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | 🏬 App Store | TBD | Marketplace and app discovery |
 | 📶 Bluetooth Monitor | **1.0** | Device discovery, telemetry readout, basic monitoring |
 | 🎥 Cam Journal | **1.0** | Video-based sessions, logging, and analysis workflow entry point |
-| ⌨️ Code Editor | TBD | Code-based panels and IO-aware editing |
-| 📈 DataAnalyzer | **Alpha** | Plots, filters, and analysis building blocks |
+| ⌨️ Code Editor | **Aplha** | Code-based panels and IO-aware editing |
+| 📈 DataAnalyzer | **1.0** | Plots, filters, and analysis building blocks |
 | 🧪 DataLab | **Alpha** | Panel-based workspace (tables, editors, analyzers) |
 | 🌐 ETH TERMINAL | TBD | Ethernet/network tools (planned) |
 | 🚌 CAN TERMINAL | **Alpha** | CAN 2.0 & FD based on https://github.com/collin80/SavvyCAN |
 | 📡 LoCo-Unit | TBD | LoCo-Unit device integration (planned) |
 | 🔤 OCR Video | **Alpha** | OCR extraction from video overlays to CSV) |
-| 🧩 pyhbox Interface | TBD | Sensor app integration and live data bridging (planned) |
+| 🧩 pyhbox Interface | **1.0** | Sensor app integration and live data bridging (planned) |
 | 🔌 SERIAL TERMINAL | **1.0** | Serial communication, logging, quick debugging |
 | 📋 Table | **Alpha** | CSV/table panels and basic data inspection |
 | 📶 WiFi Monitor | TBD | WiFi device monitoring (planned) |
