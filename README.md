@@ -1,3 +1,4 @@
+## Preview @ www.grizzlar.de/devops  Password: Preview1234
 # DevOps Lounge ✨🧭
 
 **DevOps Lounge** is the public hub for the DevOps ecosystem: release notes, changelogs, supported versions, app compatibility, and roadmap highlights.  
