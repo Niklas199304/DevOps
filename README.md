@@ -88,18 +88,18 @@ Track changes to documentation, compatibility status, and roadmap entries.
 |🤝 |Planned 	|
 
 
-✅ Server -Infrastructur and -Communication, Ready to Scale Up. 
-✅ DevOps App Store. 
-✅ Prototype Testing.
-✅ Concept Freeze for Secrurity.
-🧷 Testing Alpha Version.
--- Lizenz Secrurity.
--- Creation of a compiler pipeline for deliverable software in C and C++. 
--- Smoke-Tests for internal App Communications (>100 Mbit). 
--- Ramp up Git-based actions automated DevOps software testing.
-🤝 Prelauch Alpha Version to Test Users.
-🤝 Collect feedback and take it into account for the Betea version.
-🤝 Launch Beta Version at March.
+|✅ |Server -Infrastructur and -Communication, Ready to Scale Up.
+|✅ |DevOps App Store
+|✅ |Prototype Testing.
+|✅ |Concept Freeze for Secrurity.
+|🧷 |Testing Alpha Version.|
+|🧷|-- Lizenz Secrurity.|
+|🧷|-- Creation of a compiler pipeline for deliverable software in C and C++.| 
+|🧷|-- Smoke-Tests for internal App Communications (>100 Mbit).|
+|🧷|-- Ramp up Git-based actions automated DevOps software testing.|
+|🤝 |Prelauch Alpha Version to Test Users.|
+|🤝 |Collect feedback and take it into account for the Betea version.|
+|🤝 |Launch Beta Version at March.|
 
 --
 
