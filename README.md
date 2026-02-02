@@ -1,4 +1,3 @@
-## Preview @ www.grizzlar.de/devops  Password: Preview1234
 ## The 1.0 Beta Version will be released in March 2026
 ## The First 1.0 Alpha Versions are currently being tested by Test-Users. If you would like to become a Test-User and get free acces to all Apps, please send me an email at n.bloemen@grizzlar.de.
 
@@ -79,6 +78,9 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | 📋 Table | **Alpha** | CSV/table panels and basic data inspection |
 | 📶 WiFi Monitor | TBD | WiFi device monitoring (planned) |
 
+## Nice that you’re interested! Here’s a sneak peek :
+## Preview @ www.grizzlar.de/devops  Password: Preview1234
+
 ---
 
 ## 🗺️ Roadmap Highlights
@@ -103,6 +105,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 |🤝 | Prelauch Alpha Version to Test Users. |
 |🤝 | Collect feedback and take it into account for the Betea version. |
 |🤝 | Launch Beta Version at March. |
+
 
 ---
 
