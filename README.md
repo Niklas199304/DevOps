@@ -1,6 +1,6 @@
 ## Preview @ www.grizzlar.de/devops  Password: Preview1234
 ## The Beta Version 1.0 will be released in March 2026
-## The First Alpha Versions are currently being tested by Test-Users. If you would like to become a Test User, please send me an email at n.bloemen@grizzlar.de.
+## The First Alpha Versions are currently being tested by Test-Users. If you would like to become a Test-User, please send me an email at n.bloemen@grizzlar.de.
 
 # DevOps Lounge ✨🧭
 
