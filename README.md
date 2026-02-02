@@ -11,9 +11,88 @@
 
 ## 🔌 Open App Communication Protocol (IPC)
 
-DevOps apps communicate through a local, high-performance **IPC bus** (local sockets / named pipes) via a central DevOps data node. This enables first-party and third-party apps to integrate cleanly, exchange data in real time, and remain loosely coupled.
+DevOps is built as a **multi-app platform**: each app runs as an **independent instance** inside a shared **project**, and exchanges data via a **central, local IPC bus**. This enables both internal and third‑party apps to **publish**, **subscribe**, and **process** data in real time (e.g., sensor streams, analysis results, status signals, events).
 
 ➡️ **Read the full specification here:**  [DevOps Open App Communication](https://github.com/GR1ZZL4R/DevOps/blob/main/docs/App_IPC_Protocol.md)
+
+
+**Core idea:**
+
+* A **Project** is the container.
+* Each **App Instance** is a potential participant on the bus.
+* Communication is **local** (e.g., Local Socket / Named Pipe, e.g. via `QLocalSocket`).
+* Messages are **not persisted** by the IPC layer.
+
+Apps can (depending on host policy) read data published by other apps, forming an “open per‑instance data space”: what one app publishes can be consumed by others.
+
+---
+
+## Project structure and app instances
+
+Everything is organized per project:
+
+* **Project root:** `Projects/<Project>/`
+
+* **One folder per app instance:**
+
+  * `Projects/<Project>/<App Name #1>/`
+  * Example: `Projects/MyProject/DataAnalyzer #1/`
+
+Each instance also has IPC metadata describing how it participates on the bus:
+
+* **Instance IPC metadata:**
+
+  * `Projects/<Project>/<Instance>/ipc/stream.meta.json`
+
+This metadata is the entry point for **discovery**, **debugging**, and **routing**, e.g.:
+
+* “Which streams does this instance publish?”
+* “Which payload version does it speak?”
+* “Which topics/IDs does it use?”
+
+---
+
+## Central IPC concept: the DevOps Data Node (the bus)
+
+Communication between apps flows through a central **DevOps Data Node** (logically: a “bus”; technically: a local IPC endpoint). This enables:
+
+* **Loose coupling:** apps do not require hard, direct connections to each other.
+* **Multi‑producer / multi‑consumer:** many senders and many receivers in parallel.
+* **Third‑party integration:** external apps can behave like internal apps as long as they follow structure and protocol.
+* **Real‑time focus:** messages are **frames over local IPC**, not file logs.
+
+**Important:** IPC frames are **ephemeral** (not persisted). Persistence/logging is the job of dedicated apps (e.g., Logger/Recorder), not the IPC transport itself.
+
+---
+
+## Where is the exact specification?
+
+This README is an introduction to the concept, architecture, and orientation. The **exact, bit‑accurate definition** (header layout, payload layouts, CRC rules, and data type legend) is defined in the protocol document:
+
+* **App IPC Protocol (SoT):** `docs/App_IPC_Protocol_DevOps_1.0_Alpha1.md`
+
+> Adjust the path/filename to match your repository layout. The key requirement is: this document is the SoT.
+
+---
+
+## For new developers: what to remember
+
+* Everything lives in the **project folder**. Each app instance has its own **instance folder**.
+* IPC is a **bus**. Apps publish/subscribe via the **central Data Node**.
+* Messages are **frames**: local, fast, and **not persisted** by the IPC layer.
+* Versioning is controlled by `payload_type`. Currently only **`1`** is valid (DevOps 1.0 Alpha 1).
+* **CRC32 is required**. Every message ends with CRC32 over the full frame.
+* Packages are **typed**. Data types come from the shared payload legend.
+
+---
+
+## TBD
+
+* **Quick Start for third‑party apps**
+* Example `stream.meta.json`
+* Minimal “Hello Bus” publish/subscribe flow
+
+
 
 ---
 
