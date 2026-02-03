@@ -151,7 +151,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | 📈 DataAnalyzer      | **1.0 Beta**       | Plots, filters, and analysis building blocks                                                       |
 | 🧪 DataLab           | **1.0 Alpha**      | Panel-based workspace (tables, editors, analyzers)                                                 |
 | 🌐 ETH TERMINAL      | **1.0 TBD**        | Ethernet/network tools (planned)                                                                   |
-| 🚌 CAN TERMINAL      | **1.0 Alpha**      | CAN 2.0 & FD based on [SavvyCAN](https://github.com/collin80/SavvyCAN) |
+| 🚌 CAN TERMINAL      | **1.0 Alpha**      | CAN 2.0 & CAN-FD source code is based on [SavvyCAN](https://github.com/collin80/SavvyCAN), with custom modifications and additions developed by us. |
 | 📡 LoCo-Unit         | **1.0 TBD**        | LoCo-Unit device integration (planned)                                                             |
 | 🔤 OCR Video         | **1.0 Alpha**      | OCR extraction from video overlays to CSV                                                          |
 | 🧩 pyhbox Interface  | **1.0 Release**    | Sensor app integration and live data bridging (planned)                                            |
