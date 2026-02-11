@@ -183,7 +183,7 @@ Track changes to documentation, compatibility status, and roadmap entries.
 | ✅      | Concept Freeze for Secrurity.                                            |
 | 🧷     | Testing Alpha Version.                                                   |
 | 🧷     | - Lizenz Secrurity.                                                      |
-| 🧷     | - Creation of a compiler pipeline for deliverable software in C and C++. |
+| ✅     | - Creation of a compiler pipeline for deliverable software in C and C++. |
 | 🧷     | - Smoke-Tests for internal App Communications (>100 Mbit).               |
 | 🧷     | - Ramp up Git-based actions automated DevOps software testing.           |
 | 🤝     | Prelauch Alpha Version to Test Users.                                    |
